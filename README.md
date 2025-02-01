@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sinanaghdi
 - 👀 I’m interested in AI and their subsets
 - 🌱 I’m currently learning Machine Learning and deep learning
-- 💞️ I’m looking to collaborate on mAchine learning project 
+- 💞️ I’m looking to collaborate on machine learning project 
 - 📫 How to reach me: sinanaqdii@gmail.com
 
 <!---
